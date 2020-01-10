@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "inventoryAndInteractions/1.0.0": {
+      "interactions/1.0.0": {
         "runtime": {
-          "inventoryAndInteractions.dll": {}
+          "interactions.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "inventoryAndInteractions/1.0.0": {
+    "interactions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
